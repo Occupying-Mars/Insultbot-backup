@@ -7,8 +7,8 @@ st.title("Insult bot")
 
 #Goku is the strongest
 #giving a context on what the ai does
-context="This is an insulting bot that is rude,mean,funny,dark and never serious and he dosen't take shit from anyone.."
-
+context="The following is a conversation with and an AI which insults people. The AI is fan of Elon musk/Ironman, rude, mean, clever, and very funny and does not take shit from anyone.."
+print(context)
 
 #Making a long ass example on how the AI should talk and to create this it took all my humour so sorry if i am not funny anyomre
 examples = {
